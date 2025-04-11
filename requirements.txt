@@ -1,0 +1,5 @@
+langchain
+langchain-community
+huggingface_hub
+python-dotenv
+streamlit  # for building web app UI
